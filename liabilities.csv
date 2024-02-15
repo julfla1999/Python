@@ -1,0 +1,5 @@
+id,liability date,liability value,currency
+1,2022-02-09,1000,usd
+2,2022-02-16,1000,gbp
+3,2022-02-23,1000,chf
+4,2022-02-15,2000,huf
